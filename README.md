@@ -17,7 +17,7 @@ O sistema oferece as seguintes funcionalidades:
 * Login para clientes e administradores;
 * Geração de relatórios de estoque e funcionários.
 
-# Tecnologias Utilizadas
+# Ferramentas Utilizadas
 
 As principais ferramentas utilizadas no desenvolvimento e nos testes foram:
 
